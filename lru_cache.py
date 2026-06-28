@@ -2,7 +2,7 @@
 LeetCode #146 - LRU Cache
 https://leetcode.com/problems/lru-cache/
 
-Design a data structure that follows the Least Recently Used (LRU) cache eviction policy.
+Design a data structure that follows the Least Recently Used (LRU)
 
 Constraints:
 - get(key) and put(key, value) must both run in O(1) average time
